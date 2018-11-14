@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34da6506-6747-4e91-a8bf-7bdca5daba8f" name="Default" comment="mark">
+    <list default="true" id="34da6506-6747-4e91-a8bf-7bdca5daba8f" name="Default" comment="fixed image container">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/js/jquery.easing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentation/assets/js/jquery.scrollTo.js" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation/assets/js/jquery.scrollTo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Upload/img/ss1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Upload/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Upload/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Upload/style/icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/Upload/style/icon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Upload/style/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Upload/style/magnific.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,12 +17,13 @@
     <session id="1729848662">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -46,7 +32,7 @@
           <entry key="html" value="61" />
           <entry key="iml" value="2" />
           <entry key="jpg" value="57" />
-          <entry key="js" value="96" />
+          <entry key="js" value="97" />
           <entry key="json" value="4" />
           <entry key="less" value="13" />
           <entry key="loaded_0" value="1" />
@@ -63,7 +49,7 @@
           <entry key="IDEA_MODULE" value="2" />
           <entry key="Image" value="111" />
           <entry key="JSON" value="4" />
-          <entry key="JavaScript" value="96" />
+          <entry key="JavaScript" value="97" />
           <entry key="Less" value="13" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SCSS" value="17" />
@@ -75,7 +61,7 @@
           <entry key="css" value="1" />
           <entry key="html" value="338" />
           <entry key="js" value="1" />
-          <entry key="txt" value="8" />
+          <entry key="txt" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -83,7 +69,7 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="338" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="35" />
         </counts>
       </usages-collector>
     </session>
@@ -92,24 +78,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Upload/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Upload/script/global.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16413">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Upload/script/bootstrap.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
@@ -120,17 +93,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Upload/style/bootstrap.min.css">
+        <entry file="file://$PROJECT_DIR$/Upload/script/bootstrap.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-161842" />
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Upload/script/jquery.countTo.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Upload/style/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Upload/style/icon.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+            <state relative-caret-position="3404">
+              <caret line="148" selection-start-line="148" selection-end-line="148" />
             </state>
           </provider>
         </entry>
@@ -142,9 +129,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Upload/style/stylesheet.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-79157" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -226,7 +211,7 @@
     <option name="x" value="262" />
     <option name="y" value="23" />
     <option name="width" value="1018" />
-    <option name="height" value="698" />
+    <option name="height" value="694" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -256,7 +241,13 @@
               <item name="NetWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="NetWork" type="462c0819:PsiDirectoryNode" />
               <item name="Upload" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NetWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NetWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Upload" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -352,6 +343,10 @@
       <workItem from="1541878561056" duration="80000" />
       <workItem from="1541957891820" duration="1170000" />
       <workItem from="1542124634101" duration="1750000" />
+      <workItem from="1542126434166" duration="380000" />
+      <workItem from="1542179478194" duration="216000" />
+      <workItem from="1542179860005" duration="436000" />
+      <workItem from="1542194218280" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="mark">
       <created>1541669114486</created>
@@ -367,22 +362,29 @@
       <option name="project" value="LOCAL" />
       <updated>1541959234858</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed image container">
+      <created>1542126509278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542126509278</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31787000" />
+    <option name="totallyTimeSpent" value="32884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="262" y="23" width="1018" height="698" extended-state="0" />
+    <frame x="262" y="23" width="1018" height="694" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2612705" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2817623" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.16440678" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5010246" side_tool="true" visible="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5010246" side_tool="true" visible="true" weight="0.088737205" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
@@ -399,21 +401,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mark" />
-    <option name="LAST_COMMIT_MESSAGE" value="mark" />
+    <MESSAGE value="fixed image container" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed image container" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Upload/img/stat_4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Upload/img/stat_3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Upload/img/stat_2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Upload/img/ss1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Upload/img/ss1.jpg" />
     <entry file="file://$PROJECT_DIR$/Upload/img/stat_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -507,40 +505,10 @@
     <entry file="file://$PROJECT_DIR$/Upload/img/f7.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Upload/style/magnific.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="2" selection-end-line="373" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/assets/font-awesome/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14655">
-          <caret selection-end-line="1566" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/assets/js/jquery.easing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="3" selection-end-line="204" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/assets/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9252" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Upload/style/magnific.css" />
+    <entry file="file://$PROJECT_DIR$/Documentation/assets/font-awesome/css/font-awesome.css" />
+    <entry file="file://$PROJECT_DIR$/Documentation/assets/js/jquery.easing.js" />
+    <entry file="file://$PROJECT_DIR$/Documentation/assets/js/jquery.js" />
     <entry file="file://$PROJECT_DIR$/Upload/img/icon-like-b.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -557,41 +525,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Upload/style/jquery-ui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="606" lean-forward="true" selection-start-line="606" selection-end-line="606" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Upload/style/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161842" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Upload/style/icon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Upload/style/loader.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Upload/style/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-79157" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Upload/style/jquery-ui.css" />
     <entry file="file://$PROJECT_DIR$/Upload/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Upload/script/global.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16413">
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -606,6 +546,25 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Upload/style/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Upload/style/icon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3404">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Upload/style/loader.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Upload/style/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Upload/script/jquery.countTo.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

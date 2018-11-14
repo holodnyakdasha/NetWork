@@ -1,7 +1,3 @@
-/*! jQuery UI - v1.11.4 - 2015-08-28
-* http://jqueryui.com
-* Includes: core.js, widget.js, mouse.js, position.js, slider.js
-* Copyright 2015 jQuery Foundation and other contributors; Licensed MIT */
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
@@ -14,16 +10,7 @@
 		factory( jQuery );
 	}
 }(function( $ ) {
-/*!
- * jQuery UI Core 1.11.4
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
- *
- * http://api.jqueryui.com/category/ui-core/
- */
+
 
 
 // $.ui might exist from components with no dependencies, e.g., $.ui.position
